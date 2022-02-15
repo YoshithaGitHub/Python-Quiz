@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/Python_Quiz.html"><b><i>WELCOME!, TO MY PYTHON QUIZ</i></b></a></div> 
+# <div align="center"><a href="https://yoshithagithub.github.io/Python-Quiz/"><b><i>WELCOME!, TO MY PYTHON QUIZ</i></b></a></div> 
 
 > This is the Quiz that I made using <b><i>[Python Programming Language](https://www.w3schools.com/python/)</i></b>
 
@@ -8,7 +8,7 @@
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
-Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Python_Quiz.html](https://yoshitharathnayake.w3spaces.com/Python_Quiz.html)</i></b>
+Available at :  <b><i>[https://yoshithagithub.github.io/Python-Quiz](https://yoshithagithub.github.io/Python-Quiz/)</i></b>
 
 #
 # Run Locally
